@@ -1,2 +1,1 @@
-# PrepCourse-Douglas-
-Este es un repositorio del modulo2 del PrepCourse Douglas
+Prueba de como crear un repositorio y como clonarlo desde gitHub a mi computadora
